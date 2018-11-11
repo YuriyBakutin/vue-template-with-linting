@@ -1,4 +1,6 @@
-# data-table
+# vue-template-with-linting
+
+Vue Template with prettier and linting (Airbnb)
 
 ## Project setup
 ```
